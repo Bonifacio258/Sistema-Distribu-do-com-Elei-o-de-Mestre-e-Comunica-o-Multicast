@@ -1,0 +1,38 @@
+# Bytecode compilado do Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ambiente virtual
+venv/
+env/
+.venv/
+
+# Arquivos de IDEs
+.idea/
+.vscode/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de log
+*.log
+
+# Arquivos de banco de dados
+*.sqlite
+*.db
+
+# Arquivos de testes
+*.coverage
+*.hypothesis/
+
+# Arquivos temporários
+*.tmp
+*.swp
+
+# Arquivos de build
+build/
+dist/
+*.egg-info/
